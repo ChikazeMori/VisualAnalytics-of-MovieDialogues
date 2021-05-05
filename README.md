@@ -1,4 +1,4 @@
-# INM433-Visual-Analytics
+# Visual Analytics of Movie Dialogues
 
 ## Description 🖋️
 
